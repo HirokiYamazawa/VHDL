@@ -27,7 +27,7 @@ entity DistributedRAM_w8_r8 is
         write_clk : in std_logic;
         write_en  : in std_logic;
         write_addr: in unsigned(7 downto 0);
-        write_data: in unsigned(8 downto 0);
+        write_data: in unsigned(7 downto 0);
         
         -- 読み出しポート
         read_clk  : in std_logic;
