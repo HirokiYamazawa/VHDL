@@ -1,14 +1,14 @@
 Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
-| Date         : Tue Jun 13 19:27:34 2023
+| Date         : Tue Jun 13 20:04:01 2023
 | Host         : HIROMARU running 64-bit major release  (build 9200)
-| Command      : report_utilization -file D:/Learnning/FPGA/AES_TEST/DistributedRAM_w16_r8_utilization_report.txt -name DistributedRAM_w8_r8_utilization_report
+| Command      : report_utilization -file D:/Learnning/FPGA/AES_TEST/DistributedRAM_w8_r8_utilization_report.txt -name utilization_1
 | Design       : DistributedRAM_w8_r8
 | Device       : xcku035-ffva1156-2-i
 | Speed File   : -2
 | Design State : Synthesized
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
 
 Utilization Design Information
 

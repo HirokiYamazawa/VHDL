@@ -5,7 +5,7 @@
   /Author   (glory)
   /Producer (Concept Engineering GmbH)
   /Creator  (Nlview 7.0r6  2020-01-29 bk=1.5227 VDI=41 GEI=36)
-  /CreationDate (D:20230613192813)
+  /CreationDate (D:20230613200427)
 >>
 endobj
 2 0 obj
@@ -193,7 +193,7 @@ BT
 /F1 12 Tf
 1 0 0 -1 0 0 Tm
 -78.708 -4.308 Td
-(write_data[8:0]) Tj
+(write_data[7:0]) Tj
 ET
 Q
 q
